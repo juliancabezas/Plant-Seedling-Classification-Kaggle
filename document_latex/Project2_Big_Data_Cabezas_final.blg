@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Project2_Big_Data_Cabezas_final.aux
+The style file: ieeetr.bst
+Database file #1: library.bib
+Warning--can't use both author and editor fields in Bishop2006
+Warning--empty publisher in Zhang2019
+Warning--empty publisher in Aghdam2017
+Warning--empty publisher in Wani2019
+Warning--empty journal in Kolesnikov2019
+Warning--empty journal in Huh2016
+Warning--empty journal in Giselsson2017
+You've used 21 entries,
+            1876 wiz_defined-function locations,
+            619 strings with 7562 characters,
+and the built_in function-call counts, 4984 in all, are:
+= -- 462
+> -- 245
+< -- 0
++ -- 91
+- -- 70
+* -- 355
+:= -- 747
+add.period$ -- 28
+call.type$ -- 21
+change.case$ -- 16
+chr.to.int$ -- 0
+cite$ -- 28
+duplicate$ -- 240
+empty$ -- 474
+format.name$ -- 70
+if$ -- 1186
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 26
+newline$ -- 73
+num.names$ -- 21
+pop$ -- 85
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 127
+stack$ -- 0
+substring$ -- 249
+swap$ -- 77
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 7
+while$ -- 48
+width$ -- 23
+write$ -- 193
+(There were 7 warnings)

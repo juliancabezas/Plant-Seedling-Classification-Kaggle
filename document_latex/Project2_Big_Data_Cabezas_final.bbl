@@ -1,0 +1,106 @@
+\begin{thebibliography}{10}
+
+\bibitem{Bishop2006}
+C.~M. Bishop, {\em {Pattern Recognition and Machine Learning}}.
+\newblock New York, NY, USA: Springer, 2006.
+
+\bibitem{Zhang2019}
+D.~Zhang, {\em {Fundamentals of Image Data Mining}}.
+\newblock 2019.
+
+\bibitem{Krizhevsky2017}
+A.~Krizhevsky, I.~Sutskever, and G.~E. Hinton, ``{ImageNet classification with
+  deep convolutional neural networks},'' {\em Communications of the ACM},
+  vol.~60, no.~6, pp.~84--90, 2017.
+
+\bibitem{Rosenblatt1957}
+F.~Rosenblatt, ``{The Perceptron - A Perceiving and Recognizing Automaton},''
+  1957.
+
+\bibitem{Vapnik1995}
+V.~N. Vapnik, {\em {The Nature of Statistical Learning Theory}}.
+\newblock New York, NY, USA: Springer, 1995.
+
+\bibitem{Aghdam2017}
+H.~H. Aghdam and E.~J. Heravi, {\em {Guide to Convolutional Neural Networks: A
+  Practical Application to Traffic-Sign Detection and Classification}}.
+\newblock 2017.
+
+\bibitem{Krizhevsky2012}
+A.~Krizhevsky, ``{Learning Multiple Layers of Features from Tiny Images},''
+  tech. rep., University of Toronto, Toronto, Canada, 2012.
+
+\bibitem{Simonyan2015}
+K.~Simonyan and A.~Zisserman, ``{Very deep convolutional networks for
+  large-scale image recognition},'' {\em 3rd International Conference on
+  Learning Representations, ICLR 2015 - Conference Track Proceedings},
+  pp.~1--14, 2015.
+
+\bibitem{Skansi2018}
+S.~Skansi, {\em {Introduction to Deep Learning: From Logical Calculus to
+  Artificial Intelligence}}.
+\newblock Cham, Switzerland: Springer, 2018.
+
+\bibitem{He2016}
+K.~He, X.~Zhang, S.~Ren, and J.~Sun, ``{Deep residual learning for image
+  recognition},'' {\em Proceedings of the IEEE Computer Society Conference on
+  Computer Vision and Pattern Recognition}, vol.~2016-Decem, pp.~770--778,
+  2016.
+
+\bibitem{He2016a}
+K.~He, X.~Zhang, S.~Ren, and J.~Sun, ``{Identity mappings in deep residual
+  networks},'' {\em Computer Vision – ECCV 2016. ECCV 2016. Lecture Notes in
+  Computer Science,}, vol.~9908, pp.~630--645, 2016.
+
+\bibitem{Mahajan2018}
+D.~Mahajan, R.~Girshick, V.~Ramanathan, K.~He, M.~Paluri, Y.~Li, A.~Bharambe,
+  and L.~van~der Maaten, ``{Exploring the Limits of Weakly Supervised
+  Pretraining},'' {\em Lecture Notes in Computer Science (including subseries
+  Lecture Notes in Artificial Intelligence and Lecture Notes in
+  Bioinformatics)}, vol.~11206 LNCS, pp.~185--201, 2018.
+
+\bibitem{Wani2019}
+M.~A. Wani, F.~A. Bhat, S.~Afzal, and A.~I. Khan, {\em {Advances in Deep
+  Learning}}, vol.~57.
+\newblock 2019.
+
+\bibitem{Kolesnikov2019}
+A.~Kolesnikov, L.~Beyer, X.~Zhai, J.~Puigcerver, J.~Yung, S.~Gelly, and
+  N.~Houlsby, ``{Big Transfer (BiT): General Visual Representation Learning},''
+  2019.
+
+\bibitem{Russakovsky2015}
+O.~Russakovsky, J.~Deng, H.~Su, J.~Krause, S.~Satheesh, S.~Ma, Z.~Huang,
+  A.~Karpathy, A.~Khosla, M.~Bernstein, A.~C. Berg, and L.~Fei-Fei, ``{ImageNet
+  Large Scale Visual Recognition Challenge},'' {\em International Journal of
+  Computer Vision}, vol.~115, no.~3, pp.~211--252, 2015.
+
+\bibitem{Huh2016}
+M.~Huh, P.~Agrawal, and A.~A. Efros, ``{What makes ImageNet good for transfer
+  learning?},'' pp.~1--10, 2016.
+
+\bibitem{Xie2017}
+S.~Xie, R.~Girshick, P.~Doll{\'{a}}r, Z.~Tu, and K.~He, ``{Aggregated residual
+  transformations for deep neural networks},'' {\em Proceedings - 30th IEEE
+  Conference on Computer Vision and Pattern Recognition, CVPR 2017},
+  vol.~2017-Janua, pp.~5987--5995, 2017.
+
+\bibitem{Giselsson2017}
+T.~M. Giselsson, R.~N. J{\o}rgensen, P.~K. Jensen, M.~Dyrmann, and H.~S.
+  Midtiby, ``{A Public Image Database for Benchmark of Plant Seedling
+  Classification Algorithms},'' 2017.
+
+\bibitem{Shorten2019}
+C.~Shorten and T.~M. Khoshgoftaar, ``{A survey on Image Data Augmentation for
+  Deep Learning},'' {\em Journal of Big Data}, vol.~6, no.~1, 2019.
+
+\bibitem{Kingma2015}
+D.~P. Kingma and J.~L. Ba, ``{Adam: A method for stochastic optimization},''
+  {\em 3rd International Conference on Learning Representations, ICLR 2015 -
+  Conference Track Proceedings}, pp.~1--15, 2015.
+
+\bibitem{Nesbitt2016}
+M.~Nesbitt, {\em {Identification Guide for Near Eastern Grass Seeds}}.
+\newblock London, UK: Routledge, 1st editio~ed., 216.
+
+\end{thebibliography}
